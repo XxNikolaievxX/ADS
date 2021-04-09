@@ -1,2 +1,3 @@
 # ADS
-Atividades do curse de Análise e Desenvolvimento de Sistemas
+Atividades do curso de Análise e Desenvolvimento de Sistemas
+Socorro
